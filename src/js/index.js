@@ -24,6 +24,8 @@ const controlSearch = async () => {
 
     // 5) Render results on UI
     console.log(state.search.result);
+
+    console.log('Spam');
   }
 }
 
